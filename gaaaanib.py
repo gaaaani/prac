@@ -1,0 +1,1 @@
+print("gaaaani 입니다")
