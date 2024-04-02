@@ -1,4 +1,1 @@
-import sys
-
-print("gaaaani 입니다")
-print("readme!!")
+print("오늘 날씨 맑음")
